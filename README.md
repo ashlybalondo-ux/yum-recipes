@@ -1,2 +1,2 @@
 # yum-recipes
-A Filipino recipe website featuring homemade favorites.
+Welcome! This is a Filipino recipe website featuring homemade favorites.
